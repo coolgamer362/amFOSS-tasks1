@@ -1,0 +1,10 @@
+1.code: aHR0cHM6Ly9naXRo (Parchment.txt)
+2.ABCD123JKDMDM90SDN (Status of Marika.txt)
+3.LnnmknnlLkhrsdhk Kharnok
+		4.code:CSigVmaroAn (celestial amulet)
+		5.code:dWIuY29tL2FtYW5ze (Light book)
+		6.code:GNhbGlidXIvVGVyb (DarkbookI)
+		7.code:WluYWwtQ2hhb3MtR29kU3VpdGU= (Darkbook II)
+		
+CSigVmaroAndWIuY29tL2FtYW5zeGNhbGlidXIvVGVybWluYWwtQ2hhb3MtR29kU3VpdGU=
+
