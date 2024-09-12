@@ -16,6 +16,16 @@ I am Sabarinath.B (S1 AI & DS ), i am quite a novice to the world of programming
 
 
 
+Regards,
+Sabarinath.B
+
+
+
+
+
+
+
+
 | Task List | Task Name | Status Of Task |
 | --------- | --------- | -------------- |
 | Task 00 | Installing linux | Completed |
@@ -30,8 +40,7 @@ I am Sabarinath.B (S1 AI & DS ), i am quite a novice to the world of programming
 | Task 09 | HERO-DEX! | Not Attempted |
 | Task 10 | Operation Pixel Merge | Not Attempted |
 
-Regards,
-Sabarinath.B
+
 
 
 
