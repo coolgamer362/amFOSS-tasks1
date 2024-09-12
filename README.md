@@ -14,5 +14,25 @@ I am Sabarinath.B (S1 AI & DS ), i am quite a novice to the world of programming
 # What are my fields of interest, and how do I plan on working on them?
 --> My fields of interest are mainly 3d designing, graphic desigining and gaming as well. I wish to work on them by creating additional AI driven tools / plugins for making tasks easier. I wish to keep honing my programming and problem solving skills so that i may be able to contribute more to the community.
 
+
+
+| Task List | Task Name | Status Of Task |
+| --------- | --------- | -------------- |
+| Task 00 | Installing linux | Completed |
+| Task 01 | Typing Maestro | Completed |
+| Task 02 | Terminal Chaos | Completed |
+| Task 03 | Hello, World! | Completed |
+| Task 04 | Gopal and his PagePal | Completed |
+| Task 05 | TerminalTrolly | Partially Completed |
+| Task 06 | OpenDocs | Completed |
+| Task 07 |  Pirate's Dilemma | Partially Completed |
+| Task 08 | Blog Burst | Completed |
+| Task 09 | HERO-DEX! | Not Attempted |
+| Task 10 | Operation Pixel Merge | Not Attempted |
+
 Regards,
 Sabarinath.B
+
+
+
+
