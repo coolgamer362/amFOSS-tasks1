@@ -1,3 +1,4 @@
+```
 ├── forge.config.ts
 ├── LICENSE
 ├── package.json
@@ -145,6 +146,7 @@ coolgamer362@coolgamer362-Predator-PH315-53:~/ytmdesktop$ tree -L 2
 ├── package.json
 ├── README.md
 ├── scripts
+```
 │   └── generateContributors.mjs
 ├── src
 │   ├── assets
