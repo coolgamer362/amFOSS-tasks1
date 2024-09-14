@@ -1,0 +1,1 @@
+Task 06 was quite informative. It was my first time working on repository documentation and related tasks. Creating new README files and learning about file structure proved to be very educational. Despite choosing a relatively large repository, I was able to complete the task with minimal difficulties.

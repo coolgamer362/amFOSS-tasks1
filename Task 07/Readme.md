@@ -1,0 +1,1 @@
+Task 07 was quite challenging, as I was unfamiliar with the subject and unsure how to approach it initially. However, thanks to the resources provided, I gained some clarity on the matter. While the project is not fully functional, I have acquired valuable knowledge from this experience, which will be beneficial for future projects of a similar nature.
